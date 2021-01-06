@@ -27,7 +27,7 @@ Main features:
 
 Operating system: Any
 
-How to use: Visit www.freehostingsite.com with your browser.
+How to use: Visit https://whatsapp-170c4.firebaseapp.com/
 
 Written in: html, javascript, css
 
